@@ -1,4 +1,5 @@
 # intro
 ## to do list
 - 1. eat
-- 2. sleep eat something...
+- 2. sleep
+- 3. wash
